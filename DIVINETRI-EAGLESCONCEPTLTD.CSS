@@ -206,6 +206,30 @@
       .company-contact:hover {
         text-decoration: underline;
       }
+
+ .forever-venom {
+        text-align: center;
+        font-style: italic;
+        cursor: pointer;
+        font-weight: bolder;
+        font-size: 80px;
+        margin-bottom: 5px;
+      }
+
+      .autho-venom {
+        height: 300px;
+        width: 600px;
+        cursor: pointer;
+        margin-left: 155px;
+        margin-top: 0px;
+      }
+
+
+
+
+
+
+
       
 
 
