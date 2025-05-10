@@ -225,7 +225,7 @@
       }
    .preview-cure {
         font-style: italic;
-        text-align: center;
+        margin-left: 145px;
         cursor: pointer;
         text-decoration: underline;
       }
