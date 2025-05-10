@@ -223,6 +223,12 @@
         margin-left: 155px;
         margin-top: 0px;
       }
+   .preview-cure {
+        font-style: italic;
+        text-align: center;
+        cursor: pointer;
+        text-decoration: underline;
+      }
 
 
       
