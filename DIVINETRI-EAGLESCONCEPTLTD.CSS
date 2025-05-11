@@ -231,6 +231,80 @@
         text-decoration: underline;
       }
 
+.preview-investor {
+        cursor: pointer;
+        text-decoration: underline;
+        color: #1da1f2;
+        font-weight: bolder;
+        font-size: 30px;
+        font-style: italic;
+        margin-bottom: 5px;
+      }
+
+      .preview-list {
+        width: 550px;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 25px;
+        margin-top: 0px; color: rgb(59, 34, 34);
+
+
+      }
+
+      .des-preview {
+        width: 550px;
+        font-style: italic;
+        cursor: pointer;
+        color: rgb(59, 34, 34);
+        font-weight: bold ;
+        font-size: 25px;
+      }  
+
+      .preview-option {
+        font-style: italic;
+        font-size: large;
+        cursor: pointer;
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+
+      .video-arrow {
+        display: inline-block;
+    }
+    
+    .arrow-one {
+        color: red;
+        font-size: 45px;
+        margin-left: 35px;
+        margin-top: 0px;
+        cursor: pointer;
+    }
+    
+    .arrow-two {
+        color: red;
+        font-size: 45px;
+        margin-left: 100px;
+        margin-top: 0px;
+        cursor: pointer;
+    }
+    
+    .arrow-three {
+        color: red;
+        font-size: 45px;
+        margin-left: 100px;
+        margin-top: 0px;
+        cursor: pointer;
+    }
+
+    .preview-opt {
+      
+      font-style: italic;
+      font-size: 25px;
+      cursor: pointer;
+      color: bisque;
+      background-color: brown;
+    }
+
 
 
       
